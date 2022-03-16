@@ -3,8 +3,8 @@
 
 ## 🛫 Former Flight Attendant, I am on my way into the wonderful world of coding 💻
 
-- 🌱 I’m currently improving my skillset in data engineering
-- 🔎 I’m looking for interesting opportunities and projects to try out and extend my skill set 
+- 🌱 I’m currently improving my skill set in data engineering
+- 🔎 I’m looking for interesting opportunities and projects to try out and extend my abilities 
 - 🥅 2022 Goals: Land a job in the IT industry
 - ☕ Everything is better with coffee
 
