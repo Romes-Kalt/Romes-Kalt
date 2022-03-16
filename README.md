@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./logo-linkedin.png)](https://www.linkedin.com/in/roman-kaltschew-58b296125/)
+[![website](./logo-linkedin.png)](https://www.linkedin.com/in/roman-kaltschew/)
 
 ### Languages and Tools:
 
