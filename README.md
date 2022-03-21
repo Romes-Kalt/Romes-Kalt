@@ -3,7 +3,7 @@
 
 ## 🛫 Former Flight Attendant, I am on my way into the wonderful world of coding 💻
 
-- ✅ Finished the **Data Analytics** bootcamp @ IronHack Berlin, [final project](https://github.com/Romes-Kalt/Berlin_traffic_accidents_2018-2020) was winner of the HackShow
+- ✅ Finished the **Data Analytics** bootcamp @ IronHack Berlin, our final project ([pdf of presentation](https://github.com/Romes-Kalt/Berlin_traffic_accidents_2018-2020)) was winner of the HackShow
 - 🌱 I’m currently improving my skill set in data engineering
 - 🔎 I’m looking for interesting opportunities and projects to try out and extend my abilities 
 - 🥅 2022 Goals: Land a job in the IT industry
