@@ -7,6 +7,7 @@
 - 🌱 I’m currently improving my skill set in data engineering
 - 🔎 I’m looking for interesting opportunities and projects to try out and extend my abilities 
 - 🥅 2022 Goals: Land a job in the IT industry
+- 🐈 Pet projects: data collection and visualization of [departures and arrivals @ BER airport](https://github.com/Romes-Kalt/BER-airport-DEP-ARR/blob/main/README.md) (webscraping) and [COVID figures provided by DIVI](https://github.com/Romes-Kalt/DIVI_data/blob/main/README.md) (api and automated file downloads) 
 - ☕ Everything is better with coffee
 
 ### Connect with me:
