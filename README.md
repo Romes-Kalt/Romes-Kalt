@@ -5,7 +5,7 @@
 
 - ✅ Completed the **Data Analytics** bootcamp @ IronHack Berlin, our [final project on traffic accidents](https://github.com/Romes-Kalt/Berlin_traffic_accidents_2018-2020/blob/main/README.md) was winner 🏆 of the **HackShow**
 - 🌱 I’m currently improving my skill set in programming and data engineering
-- acquired knowledge for the Splunk Power User role
+- 📶 acquired knowledge for the Splunk Power User role
 - 🔎 I’m looking for interesting opportunities and projects to try out and extend my abilities 
 - 🥅 2022 Goals: Land a job in the IT industry
 - 🐈 Pet projects: data collection and visualization of [departures and arrivals @ BER airport](https://github.com/Romes-Kalt/BER-airport-DEP-ARR/blob/main/README.md) (webscraping) and [COVID figures provided by DIVI](https://github.com/Romes-Kalt/DIVI_data/blob/main/README.md) (api and automated file downloads) 
