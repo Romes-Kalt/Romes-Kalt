@@ -7,7 +7,7 @@
 - 🌱 I’m currently improving my skill set in programming and data engineering
 - 📶 acquired knowledge for the Splunk Power User role
 - 🔎 I’m looking for interesting opportunities and projects to try out and extend my abilities 
-- 🥅 2022 Goals: Land a job in the IT industry
+- 🥅 2022 Goal: Land a job in the IT industry
 - ✅ Aug 2022: started at DB Systel GmbH as IT admin with focus on SIEM/splunk 🥳
 - 🐈 Pet projects: data collection and visualization of [departures and arrivals @ BER airport](https://github.com/Romes-Kalt/BER-airport-DEP-ARR/blob/main/README.md) (webscraping) and [COVID figures provided by DIVI](https://github.com/Romes-Kalt/DIVI_data/blob/main/README.md) (api and automated file downloads) 
 - ☕ Everything is better with coffee
